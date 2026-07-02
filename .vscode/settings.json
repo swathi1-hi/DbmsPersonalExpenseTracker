@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.project.referencedLibraries": [
+        "lib\\mysql-connector-j-9.6.0.jar",
+        "c:\\Users\\swath\\OneDrive\\Desktop\\Personal expense  tracker\\lib\\mysql-connector-j-9.6.0.jar",
+        "lib/flatlaf-3.7.jar"
+    ]
+}
